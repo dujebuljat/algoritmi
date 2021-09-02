@@ -22,3 +22,13 @@ def parnibr():
 
 rezultat = parnibr()
 print(rezultat)
+
+#Napravite algoritam koji u nizu cijelih brojeva 
+#pronalazi sve parne brojeve i njihove indeksne 
+#pozicije. U slučaju da nema parnih brojeva 
+#algoritam daje praznu strukturu podataka i 
+#pripadnu poruku. Dodatni zahtjev je da napravite 
+#funkciju ili metodu (ovisno rješavate li u Pythonu 
+#ili JAVI) koja slučajno generira polazni niz željene 
+#duljine n. Pored konkretne implementacije trebate napisati 
+#pseudokod vašeg rješenja. Testiranje izvršite za niz duljine 8 elemenata.
